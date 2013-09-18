@@ -1,0 +1,6 @@
+{
+  config: {
+    traceur: true,
+    transpile: true
+  }
+}
